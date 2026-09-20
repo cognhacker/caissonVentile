@@ -1,0 +1,1 @@
+![caisson ventilée](./caissonVentilé.png)
